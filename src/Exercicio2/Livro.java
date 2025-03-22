@@ -1,4 +1,4 @@
-//Exercicio 2
+package Exercicio2;
 
 public class Livro {
     

@@ -1,4 +1,4 @@
-//Exercicio 3
+package Exercicio3;
 
 public class Retangulo {
     

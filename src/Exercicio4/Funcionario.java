@@ -1,4 +1,4 @@
-//Exercicio 4
+package Exercicio4;
 
 public class Funcionario {
     

@@ -1,4 +1,4 @@
-//Exercicio 6
+package Exercicio6;
 
 public class Produto {
     

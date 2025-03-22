@@ -1,4 +1,4 @@
-//Exercicio 1
+package Exercicio1;
 
 public class Pessoa {
     

@@ -1,4 +1,4 @@
-//Exercicio 7
+package Exercicio7;
 
 public class Veiculo {
     
